@@ -7,7 +7,7 @@
         🌱 I’m currently learning <b>Python for Data Engineering and Data Science</b>
     </li>
     <li>
-        👯 I’m looking to collaborate on <b>ETL, data visualization, and data report proyects</b>
+        👯 I’m looking to collaborate on <b>ETL, data visualization, and data report projects</b>
     </li>
     <li>
         👨‍💻 All of my projects are available at <a href="https://github.com/Jebushdd"><img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Jebushdd" height="15" width="15"> GitHub</a>

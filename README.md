@@ -1,7 +1,8 @@
 ![MasterHead](./img/banner_2.png)
 <h1 align="center">Hi 👋, I'm Jesús</h1>
 <h3 align="center">A young data analyst in love with the Data world 💙</h3>
-<ul>
+<img align="right" alt="Coding" width="350" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
+<ul align="left">
     <li>
         🌱 I’m currently learning <b>Python for Data Engineering and Data Science</b>
     </li>

@@ -1,3 +1,4 @@
+![MasterHead](./img/banner_2.png)
 <h1 align="center">Hi 👋, I'm Jesús</h1>
 <h3 align="center">A young data analyst in love with the Data world 💙</h3>
 <ul>

@@ -10,13 +10,13 @@
         👯 I’m looking to collaborate on <b>ETL, data visualization, and data report projects</b>
     </li>
     <li>
-        👨‍💻 All of my projects are available at <a href="https://github.com/Jebushdd"><img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Jebushdd" height="15" width="15"> GitHub</a>
+        👨‍💻 All my projects are available at <a href="https://github.com/Jebushdd"><img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Jebushdd" height="15" width="15"> GitHub</a>
     </li>
     <li>
-        📝 I regularly write articles on <a href="https://linkedin.com/in/martinezjesusfl"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinezjesusfl" height="15" width="15"> LinkedIn</a>
+        📝 Someties I write articles on <a href="https://linkedin.com/in/martinezjesusfl"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinezjesusfl" height="15" width="15"> LinkedIn</a>
     </li>
     <li>
-        💬 Ask me about <b>ETL, Google Data Studio, BigQuery, Spreadsheets</b>
+        💬 Talk me about your projects on <b>ETL, Google Data Studio, BigQuery, Spreadsheets</b> and I'm your man 😉
     </li>
     <li>
         📫 You can contact me at <b>martinez.jesusfl@gmail.com</b>
@@ -29,7 +29,7 @@
     </li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's get in touch!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/martinezjesusfl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinezjesusfl" height="30" width="40" /></a>
 </p>

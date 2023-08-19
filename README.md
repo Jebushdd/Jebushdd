@@ -1,74 +1,71 @@
-![MasterHead](./img/banner_2.png)
-<h1 align="center">Hi 👋, I'm Jesús</h1>
-<h3 align="center">A young data analyst in love with the Data world 💙</h3>
-<img align="right" alt="Coding" width="350" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
-<ul align="left">
-    <li>
-        🌱 I’m currently learning <b>Python for Data Engineering and Data Science</b>
-    </li>
-    <li>
-        👯 I’m looking to collaborate on <b>ETL, data visualization, and data report projects</b>
-    </li>
-    <li>
-        👨‍💻 All my projects are available at <a href="https://github.com/Jebushdd"><img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Jebushdd" height="15" width="15"> GitHub</a>
-    </li>
-    <li>
-        📝 Someties I write articles on <a href="https://linkedin.com/in/martinezjesusfl"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinezjesusfl" height="15" width="15"> LinkedIn</a>
-    </li>
-    <li>
-        💬 Talk me about your projects on <b>ETL, Google Data Studio, BigQuery, Spreadsheets</b> and I'm your man 😉
-    </li>
-    <li>
-        📫 You can contact me at <b>martinez.jesusfl@gmail.com</b>
-    </li>
-    <li>
-        📄 Know about my experiences <a href="https://linkedin.com/in/martinezjesusfl"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinezjesusfl" height="15" width="15"> LinkedIn</a>
-    </li>
-    <li>
-        ⚡ Fun fact <b>Memes, stickers & cats are my passion</b>
-    </li>
-</ul>
+<h2 align="left">😁🙌🏻 Soy Yisus! Analytics Engineer</h2>
 
-<h3 align="left">Let's get in touch!</h3>
-<p align="left">
-<a href="https://linkedin.com/in/martinezjesusfl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinezjesusfl" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<ul align="left"> 
-    <li> <b>Data Analysis:</b>
-        <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg" alt="spreadsheets" width="40" height="40" align="center">
-        <a href="https://searchengineland.com/google-data-studio-258871" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/353809/google-data-studio.svg" alt="data studio" width="40" height="40" align="center"> 
-        </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" align="center">
-        </a>
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" align="center">
-        </a>
-        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-            <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" align="center">
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" align="center">
-        </a>
-    </li>
-    <br>
-    <li> <b>Web development:</b>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html 5" width="40" height="40" align="center"> 
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"  align="center">
-        </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="center"> 
-        </a>
-    </li>
-</ul>
+<img align="right" height="200" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif"  />
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jebushdd&show_icons=true&locale=en&layout=compact" alt="jebushdd" />
-</p>
+###
+
+<p align="left">Me encanta participar a lo largo de cada proyecto enfocandome en tres etapas especiales:<li>La comunicación con los stakeholders para definir y dar seguimiento a los requerimientos y objetivos<li>La preparación de los datos integrando procesos de ETL/ELT<li>El desarrollo de dashboards que faciliten los insights y la toma de decisiones basada en datos</p>
+<p>Me interesa mucho el desarrollo de Data Products para facilitar oportunidades de Data Self Service y fortalecer la cultura Data Driven en una organización</p>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Tecnologías que uso 💻</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Encuéntrame en mis redes! 🌐</h2>
+
+###
+
+<div align="left">
+  <a href="martinez.jesusfl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/martinezjesusfl/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
